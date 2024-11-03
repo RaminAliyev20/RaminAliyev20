@@ -27,6 +27,6 @@
   <a href="https://tomcat.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" alt="tomcat" width="40" height="40"/> </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramin-aliyev&show_icons=true&locale=en" alt="ramin-aliyev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RaminAliyev20&show_icons=true&locale=en" alt="RaminAliyev20" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramin-aliyev&" alt="ramin-aliyev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RaminAliyev20&" alt="RaminAliyev20" /></p>
